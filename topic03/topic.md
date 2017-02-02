@@ -1,3 +1,3 @@
-#Getting Started with Galileo
+#Introduction to Arduino
 
-This topic introduces the Intel Galileo development board. Initially you will use it in "Arduino" mode.
+This topic introduces the Arduino Prototyping Platform. 
