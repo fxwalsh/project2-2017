@@ -1,3 +1,3 @@
-#Getting Started with Galileo
+#Getting Started with Wyliodrin
 
-This topic introduces the Intel Galileo development board. Initially you will use it in "Arduino" mode.
+This topic introduces the Wyliodrin development environment for IoT applications.
